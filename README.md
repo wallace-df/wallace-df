@@ -1,6 +1,6 @@
 <h1 align= "center"><b>Hi 👋, I'm Wallace! </b></h1>
 
-<p align='center'>✨ Full-Stack Web/Blockchain developer ✨</p>
+<p align='center'>✨ Full-Stack & Blockchain Developer ✨</p>
 </article>
 
 
