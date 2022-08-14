@@ -17,7 +17,7 @@
   <a href="https://t.me/wallace_df" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
-  <a href="wallaceferreira19@gmail.,com" target="_blank">
+  <a href="mailto:wallaceferreira19@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
@@ -73,16 +73,19 @@
 
 ###
 
-<p align="left">★ Implementation and deployment of Solidity smart contracts <br>★ Integration of Web3 wallets into existing pages<br>★ Development of tokens (ERC-20, ERC-721 and others)<br>★ NFT minting, marketplace, lending and renting<br>★ DeFi protocols<br>★ Blockchain indexers for efficient data retrieval and custom APIs<br><br>→ Languages: Solidity, Cairo<br>→ Libraries: Web3.js, ethers.js, starknet.js<br>→ Frameworks: Ganache, Remix, Truffle, HardHat<br>→ Chains: Ethereum, RSK, BSC, zkSync, StarkNet</p>
+<p align="left">★ Implementation and deployment of Solidity smart contracts <br>★ Integration of Web3 wallets into existing pages<br>★ Development of tokens (ERC-20, ERC-721 and others)<br>★ NFT minting, marketplace, lending and renting<br>★ DeFi protocols<br>★ Blockchain indexers for efficient data retrieval and custom APIs<br><br>→ Languages: Solidity, Cairo<br>→ Libraries: web3.js, ethers.js, starknet.js<br>→ Frameworks: Ganache, Remix, Truffle, HardHat<br>→ Chains: Ethereum, RSK, BSC, zkSync, StarkNet</p>
 
 ###
 
+      
 <div align="left">
-  <img src="hhttps://img.shields.io/badge/-Solidity-3c3c3d?style=for-the-badge&logo=ethereum&logoColor=white" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" width="52" alt="storybook logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-plain.svg" height="40" width="52" alt="solidity logo"  />
+  <img src="https://starkware.co/wp-content/uploads/2021/07/Group-177.svg" height="40" width="52" alt="starknet logo"  />
+  <img src="https://raw.githubusercontent.com/matter-labs/zksync/0d9b71ebc3b16abf667a9507859c7e34bb77a8d2/zkSyncLogo.svg" height="40" width="52" alt="zkSync logo"  />
+  <img src="https://raw.githubusercontent.com/github-ruzyysmartt-organizations/Ruzyysmartt-web3.js/1.x/web3js.svg" height="40" width="52" alt="web3.js"  />
+  <img src="https://hardhat.org/_next/static/media/hardhat-logo-dark.484eb916.svg" height="40" width="52" alt="HardHat"  />
+  
+
 </div>
 
 
