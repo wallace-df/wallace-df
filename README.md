@@ -48,7 +48,7 @@
 
 ###
 
-<p align="left">★ API development and integration<br>★ Data collection, extraction and transformation<br>★ Automation bots and scripts<br>★ Database management<br><br>→ Languages: Java, Javascript, Python<br>→ Frameworks: Node.js, Spring Boot<br>→ Databases: MySQL, PostgreSQL, MongoDB<br>→ Servers: Tomcat, Express.js<br>→ Enviroments: AWS, Linux</p>
+<p align="left">★ API development and integration<br>★ Data collection, extraction and transformation<br>★ Automation bots and scripts<br>★ Database management<br><br>→ Languages: Java, Javascript, Python<br>→ Frameworks: Node.js, Spring Boot<br>→ Databases: MySQL, PostgreSQL, MongoDB<br>→ Servers: Tomcat, Express.js<br>→ Environments: AWS, Linux</p>
 
 ###
 
