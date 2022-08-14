@@ -70,7 +70,7 @@
 
 ###
 
-<p align="left">★ Implementation and deployment of Solidity smart contracts <br>★ Integration of Web3 wallets into existing pages<br>★ Development of tokens (ERC-20, ERC-721 and others)<br>★ NFT minting, marketplace, lending and renting<br>★ DeFi protocols<br>★ Blockchain indexers for efficient data retrieval and custom APIs<br><br>→ Languages: Solidity, Cairo<br>→ Libraries: web3.js, ethers.js, starknet.js<br>→ Frameworks: Ganache, Remix, Truffle, HardHat<br>→ Chains: Ethereum, RSK, BSC, zkSync, StarkNet</p>
+<p align="left">★ Implementation and deployment of Solidity smart contracts <br>★ Integration of Web3 wallets into existing pages<br>★ Token development (ERC-20, ERC-721 and others)<br>★ NFT minting, marketplace, lending and renting<br>★ DeFi protocols<br>★ Blockchain indexers for efficient data retrieval and custom APIs<br><br>→ Languages: Solidity, Cairo<br>→ Libraries: web3.js, ethers.js, starknet.js<br>→ Frameworks: Ganache, Remix, Truffle, HardHat<br>→ Chains: Ethereum, RSK, BSC, zkSync, StarkNet</p>
 
 ###
 
