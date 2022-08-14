@@ -79,12 +79,21 @@
 
       
 <div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-plain.svg" height="40" width="52" alt="solidity logo"  />
-  <img src="https://starkware.co/wp-content/uploads/2021/07/Group-177.svg" height="40" width="52" alt="starknet logo"  />
-  <img src="https://raw.githubusercontent.com/matter-labs/zksync/0d9b71ebc3b16abf667a9507859c7e34bb77a8d2/zkSyncLogo.svg" height="40" width="52" alt="zkSync logo"  />
-  <img src="https://raw.githubusercontent.com/github-ruzyysmartt-organizations/Ruzyysmartt-web3.js/1.x/web3js.svg" height="40" width="52" alt="web3.js"  />
-  <img src="https://hardhat.org/_next/static/media/hardhat-logo-dark.484eb916.svg" height="40" width="52" alt="HardHat"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-plain.svg" height="40" alt="solidity logo"  />
+  &nbsp;&nbsp;
+  <img src="https://www.cairo-lang.org/wp-content/uploads/2021/08/cairo_logo_white.png" height="40" alt="Cairo"  />
+  &nbsp;&nbsp;
+  <img src="https://starkware.co/wp-content/uploads/2021/07/Group-177.svg" height="40" alt="starknet logo"  />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/matter-labs/zksync/0d9b71ebc3b16abf667a9507859c7e34bb77a8d2/zkSyncLogo.svg" height="40" alt="zkSync logo"  />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/github-ruzyysmartt-organizations/Ruzyysmartt-web3.js/1.x/web3js.svg" height="40" alt="web3.js"  />
+  &nbsp;&nbsp;
+  <img src="https://hardhat.org/_next/static/media/hardhat-logo-dark.484eb916.svg" height="40" alt="HardHat"  />
+  &nbsp;&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/22205159?s=200&v=4" height="40" alt="Truffle"  />
   
+ 
 
 </div>
 
